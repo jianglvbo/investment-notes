@@ -1,4 +1,5 @@
 ---
+id: docid_sfwc9p2p9lbstv9rvuic2ade_e
 title: "FIRE青年"
 platform: "抖音"
 special_following: true
@@ -7,8 +8,6 @@ info_cutoff: 2026-07-06T17:50:00
 createDate: 2026-07-03
 updateDate: 2026-08-07
 ---
-
-> 仅用于「博主控制台」已登记博主；未登记作者其框架条目一律归「其他」层，Agent 绝不自动补登（framework-rules #12）。
 
 # FIRE青年
 
