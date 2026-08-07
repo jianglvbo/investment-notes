@@ -1,5 +1,90 @@
 [
   {
+    "timestamp": "2026-08-07T14:58:55.037Z",
+    "version": "3.1.8",
+    "settings": {
+      "dateHighlightedFormat": "yyyy-MM-dd HH:mm:ss",
+      "dateSavedFormat": "yyyy-MM-dd HH:mm:ss",
+      "apiKey": "o56E766RwyDvVDqwoME-CIFBe5F0",
+      "filter": "ALL",
+      "syncAt": "2026-08-07T20:17:36.306+08:00",
+      "customQuery": "in:all",
+      "template": "{{{content}}}",
+      "highlightOrder": "LOCATION",
+      "folder": "工作区/粗制品",
+      "folderDateFormat": "yyyy-MM-dd",
+      "endpoint": "https://obsidian.notebooksyncer.com/api/graphql",
+      "filename": "{{{title}}}",
+      "filenameDateFormat": "yyyy年MM月dd天",
+      "attachmentFolder": "附件/图片",
+      "version": "3.1.8",
+      "mergeMode": "messages",
+      "messageSortOrder": "desc",
+      "messageFolder": "工作区/粗制品",
+      "frequency": 0,
+      "intervalId": 0,
+      "frontMatterVariables": [],
+      "frontMatterTemplate": "author: {{{author}}}\nsource: {{{siteName}}}\nurl: {{{originalUrl}}}\nsaved: {{{dateSaved}}}\ntags: [笔记同步助手{{#labels}}, {{{name}}}{{/labels}}]",
+      "syncOnStart": false,
+      "enableHighlightColorRender": false,
+      "highlightManagerId": "omni",
+      "highlightColorMapping": {
+        "yellow": "#fff3a3",
+        "red": "#ff5582",
+        "blue": "#adccff",
+        "green": "#bbfabb"
+      },
+      "singleFileName": "同步助手_{{{date}}}",
+      "singleFileDateFormat": "yyyy-MM-dd",
+      "sectionSeparator": "%%{{{dateSaved}}}_start%%",
+      "sectionSeparatorEnd": "%%{{{dateSaved}}}_end%%",
+      "wechatMessageTemplate": "---\n#### {{{heading}}}\n## 📅 {{{dateSaved}}}\n{{{content}}}",
+      "imageMode": "local",
+      "enablePngToJpeg": false,
+      "jpegQuality": 85,
+      "imageDownloadRetries": 3,
+      "imageAttachmentFolder": "/附件/图片",
+      "imageUploadRelay": "none",
+      "imageRenameBeforeRelay": false,
+      "enableDiaryLinks": false,
+      "diaryFolder": "Daily Notes",
+      "diaryDateFormat": "yyyy-MM-dd",
+      "diaryAnchor": "notehelper-links",
+      "diaryLinkType": "all",
+      "autoCreateDiaryNote": false,
+      "diaryLinkPrefix": "- ",
+      "diaryLinkMaxLength": 0,
+      "deviceSyncCursors": {
+        "desktop-mqfh1aee-b670": "2026-08-07T20:17:36.306+08:00"
+      },
+      "initialSyncCompleted": true,
+      "firstSyncAutoOpened": true,
+      "deviceAutoSync": {
+        "desktop-mqfh1aee-b670": {
+          "frequency": 0,
+          "syncOnStart": false
+        },
+        "mobile-mqmpb8s1-xak5": {
+          "frequency": 0,
+          "syncOnStart": false
+        },
+        "mobile-mrgmrkp1-tymk": {
+          "frequency": 0,
+          "syncOnStart": false
+        }
+      },
+      "deviceAutoSyncMigrated": true,
+      "escapeHashtags": true,
+      "language": "auto",
+      "enableDebugLog": false,
+      "autoUpdateEnabled": true,
+      "debugMode": false,
+      "burnAfterReading": false,
+      "burnAfterReadingEnabledAt": "",
+      "pendingBurnDeletes": []
+    }
+  },
+  {
     "timestamp": "2026-08-07T00:42:16.012Z",
     "version": "3.1.8",
     "settings": {
@@ -311,91 +396,6 @@
       "diaryLinkMaxLength": 0,
       "deviceSyncCursors": {
         "desktop-mqfh1aee-b670": "2026-08-04T22:53:39.679+08:00"
-      },
-      "initialSyncCompleted": true,
-      "firstSyncAutoOpened": true,
-      "deviceAutoSync": {
-        "desktop-mqfh1aee-b670": {
-          "frequency": 0,
-          "syncOnStart": false
-        },
-        "mobile-mqmpb8s1-xak5": {
-          "frequency": 0,
-          "syncOnStart": false
-        },
-        "mobile-mrgmrkp1-tymk": {
-          "frequency": 0,
-          "syncOnStart": false
-        }
-      },
-      "deviceAutoSyncMigrated": true,
-      "escapeHashtags": true,
-      "language": "auto",
-      "enableDebugLog": false,
-      "autoUpdateEnabled": true,
-      "debugMode": false,
-      "burnAfterReading": false,
-      "burnAfterReadingEnabledAt": "",
-      "pendingBurnDeletes": []
-    }
-  },
-  {
-    "timestamp": "2026-08-04T14:47:50.842Z",
-    "version": "3.1.8",
-    "settings": {
-      "dateHighlightedFormat": "yyyy-MM-dd HH:mm:ss",
-      "dateSavedFormat": "yyyy-MM-dd HH:mm:ss",
-      "apiKey": "o56E766RwyDvVDqwoME-CIFBe5F0",
-      "filter": "ALL",
-      "syncAt": "2026-08-04T13:25:03.844+08:00",
-      "customQuery": "in:all",
-      "template": "{{{content}}}",
-      "highlightOrder": "LOCATION",
-      "folder": "工作区/粗制品",
-      "folderDateFormat": "yyyy-MM-dd",
-      "endpoint": "https://obsidian.notebooksyncer.com/api/graphql",
-      "filename": "{{{title}}}",
-      "filenameDateFormat": "yyyy年MM月dd天",
-      "attachmentFolder": "附件/图片",
-      "version": "3.1.8",
-      "mergeMode": "messages",
-      "messageSortOrder": "desc",
-      "messageFolder": "工作区/粗制品",
-      "frequency": 0,
-      "intervalId": 0,
-      "frontMatterVariables": [],
-      "frontMatterTemplate": "author: {{{author}}}\nsource: {{{siteName}}}\nurl: {{{originalUrl}}}\nsaved: {{{dateSaved}}}\ntags: [笔记同步助手{{#labels}}, {{{name}}}{{/labels}}]",
-      "syncOnStart": false,
-      "enableHighlightColorRender": false,
-      "highlightManagerId": "omni",
-      "highlightColorMapping": {
-        "yellow": "#fff3a3",
-        "red": "#ff5582",
-        "blue": "#adccff",
-        "green": "#bbfabb"
-      },
-      "singleFileName": "同步助手_{{{date}}}",
-      "singleFileDateFormat": "yyyy-MM-dd",
-      "sectionSeparator": "%%{{{dateSaved}}}_start%%",
-      "sectionSeparatorEnd": "%%{{{dateSaved}}}_end%%",
-      "wechatMessageTemplate": "---\n#### {{{heading}}}\n## 📅 {{{dateSaved}}}\n{{{content}}}",
-      "imageMode": "local",
-      "enablePngToJpeg": false,
-      "jpegQuality": 85,
-      "imageDownloadRetries": 3,
-      "imageAttachmentFolder": "/附件/图片",
-      "imageUploadRelay": "none",
-      "imageRenameBeforeRelay": false,
-      "enableDiaryLinks": false,
-      "diaryFolder": "Daily Notes",
-      "diaryDateFormat": "yyyy-MM-dd",
-      "diaryAnchor": "notehelper-links",
-      "diaryLinkType": "all",
-      "autoCreateDiaryNote": false,
-      "diaryLinkPrefix": "- ",
-      "diaryLinkMaxLength": 0,
-      "deviceSyncCursors": {
-        "desktop-mqfh1aee-b670": "2026-08-04T13:25:03.844+08:00"
       },
       "initialSyncCompleted": true,
       "firstSyncAutoOpened": true,
