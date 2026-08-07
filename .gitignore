@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+
+# Obsidian 运行时状态（工作区/插件二进制，可再生成）
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspaces.json
+.obsidian/plugins/
+.obsidian/cache/
+
+# 插件运行时数据
+.smart-env/
+.makemd/fileCache.mdc
+.space/*.mdb
+
+# Obsidian 回收站
+.trash/
+
+# 访问历史插件数据
+__visit_history/
+
+# iCloud 占位文件
+*.icloud

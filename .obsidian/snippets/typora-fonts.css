@@ -1,0 +1,72 @@
+/* ============================================
+   Typora 风格字体配置（macOS）
+   - 正文：PingFang SC（苹方，Typora mac 默认）
+   - 英文：Helvetica Neue（Typora 英文默认）
+   - 代码：Menlo（Typora 代码默认，等效 SF Mono）
+   - 界面：PingFang SC + Helvetica
+   用法：设置 → 外观 → CSS 代码片段 → 开启本文件
+   ============================================ */
+
+/* 正文编辑与阅读区 */
+.markdown-source-view,
+.markdown-preview-view {
+  --font-text-theme: "PingFang SC", "Helvetica Neue", "Microsoft YaHei", sans-serif;
+  font-family: var(--font-text-theme);
+  letter-spacing: 0.01em;
+}
+
+/* 界面字体（侧栏、标签、设置等） */
+body {
+  --font-interface-theme: "PingFang SC", "Helvetica Neue", sans-serif;
+  --font-interface: var(--font-interface-theme);
+}
+
+/* 代码块与行内代码 */
+.markdown-source-view code,
+.markdown-preview-view code,
+.cm-s-obsidian .cm-inline-code,
+.cm-s-obsidian .HyperMD-codeblock {
+  font-family: "Menlo", "SF Mono", "JetBrains Mono", monospace;
+  font-size: 0.9em;
+}
+
+/* 标题：加粗并略收紧，保留主题配色 */
+.markdown-preview-view h1,
+.markdown-preview-view h2,
+.markdown-preview-view h3,
+.markdown-preview-view h4,
+.markdown-preview-view h5,
+.markdown-preview-view h6 {
+  font-family: "PingFang SC", "Helvetica Neue", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0.01em;
+}
+
+/* 表格：等宽数字更易对齐 */
+.markdown-preview-view table,
+.markdown-preview-view table td,
+.markdown-preview-view table th {
+  font-family: "PingFang SC", "Helvetica Neue", sans-serif;
+}
+.markdown-preview-view table td {
+  font-variant-numeric: tabular-nums;
+}
+
+/* 中文行高与段落间距（Typora 呼吸感） */
+.markdown-preview-view {
+  line-height: 1.8;
+}
+.markdown-source-view .cm-line {
+  line-height: 1.8;
+}
+.markdown-preview-view p {
+  margin: 0.9em 0;
+}
+
+/* 标签页标题与界面文字同步 */
+.workspace-tab-header-tab-title,
+.view-header-title,
+.nav-file-title-content,
+.nav-folder-title-content {
+  font-family: var(--font-interface-theme);
+}

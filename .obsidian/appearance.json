@@ -1,0 +1,12 @@
+{
+  "accentColor": "",
+  "translucency": false,
+  "baseFontSize": 18,
+  "textFontFamily": "PingFang SC",
+  "interfaceFontFamily": "PingFang SC",
+  "cssTheme": "GitHub Theme",
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "typora-fonts"
+  ]
+}
