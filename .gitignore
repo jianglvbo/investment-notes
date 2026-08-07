@@ -11,6 +11,7 @@
 # 插件运行时数据
 .smart-env/
 .makemd/fileCache.mdc
+.makemd/superstate.mdc
 .space/*.mdb
 
 # Obsidian 回收站
