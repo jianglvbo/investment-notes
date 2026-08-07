@@ -12,7 +12,7 @@
 .smart-env/
 .makemd/fileCache.mdc
 .makemd/superstate.mdc
-.space/*.mdb
+**/.space/*.mdb
 
 # Obsidian 回收站
 .trash/

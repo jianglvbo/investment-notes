@@ -3,9 +3,9 @@ title: "Benjm_修"
 platform: "雪球"
 special_following: false
 summary: 雪球科技趋势投资者，自创本杰明三击框架，代表作AI应用右侧共振接力
-info_cutoff: 2026-08-04T17:50:00
+info_cutoff: 2026-08-07T17:50:00
 createDate: 2026-07-20
-updateDate: 2026-08-04
+updateDate: 2026-08-07
 ---
 
 # Benjm_修
