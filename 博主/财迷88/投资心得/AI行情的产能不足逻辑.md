@@ -4,7 +4,7 @@ createDate: 2026-08-01
 updateDate: 2026-08-01
 author: 财迷88
 star: false
-delete:  # 待删除标记：填 YYYY-MM-DD 即标记回收，7 天冷静期；缺省空=未标记
+delete:
 tags:
   - 投资心得/市场规律
   - 行业/AI与算力/算力基础设施

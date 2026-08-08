@@ -4,7 +4,7 @@ createDate: 2026-08-05
 updateDate: 2026-08-05
 author: "庶人哑士"
 star: false
-delete:  # 待删除标记：填 YYYY-MM-DD 即标记回收，7 天冷静期；缺省空=未标记
+delete:
 tags: [投资心得/市场规律, 行业/AI与算力, 投资心得/投资理念]
 source:
   - "[AI当下有两个叙事（庶人哑士 2026-08-05）](https://xueqiu.com/4381703788/403818790)"

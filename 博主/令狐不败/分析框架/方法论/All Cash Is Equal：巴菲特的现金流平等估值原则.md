@@ -4,7 +4,7 @@ createDate: 2026-07-03
 updateDate: 2026-07-03
 author: 令狐不败
 star: false
-delete:  # 待删除标记：填 YYYY-MM-DD 即标记回收，7 天冷静期；缺省空=未标记
+delete:
 tags:
   - 分析框架/估值
   - 市场/A股

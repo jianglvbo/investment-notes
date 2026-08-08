@@ -5,7 +5,7 @@ createDate: 2026-07-05
 updateDate: 2026-07-05
 author: 文主任
 star: false
-delete:  # 待删除标记：填 YYYY-MM-DD 即标记回收，7 天冷静期；缺省空=未标记
+delete:
 tags:
   - 行业/AI与算力
   - 行业/电子/半导体

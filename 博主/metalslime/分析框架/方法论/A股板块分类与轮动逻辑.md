@@ -4,7 +4,7 @@ createDate: 2026-08-04
 updateDate: 2026-08-04
 author: "metalslime"
 star: false
-delete:  # 待删除标记：填 YYYY-MM-DD 即标记回收，7 天冷静期；缺省空=未标记
+delete:
 tags:
   - "分析框架/基本面"
   - "交易体系/价值投资"

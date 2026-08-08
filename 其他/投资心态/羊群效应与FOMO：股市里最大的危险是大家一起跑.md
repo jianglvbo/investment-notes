@@ -4,7 +4,7 @@ createDate: 2026-08-04
 updateDate: 2026-08-04
 author: 小雷大智慧
 star: false
-delete:  # 待删除标记：填 YYYY-MM-DD 即标记回收，7 天冷静期；缺省空=未标记
+delete:
 tags:
   - "投资心态/心理偏误/从众心理"
   - "投资心态/心理偏误/FOMO"

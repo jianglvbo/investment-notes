@@ -4,7 +4,7 @@ createDate: 2026-08-05
 updateDate: 2026-08-05
 author: "Benjm_修"
 star: false
-delete:  # 待删除标记：填 YYYY-MM-DD 即标记回收，7 天冷静期；缺省空=未标记
+delete:
 tags: ["分析框架/行业分析", "行业/AI与算力/AI应用", "市场/美股"]
 source:
   - "[AI产业链闭环分析（Benjm_修 2026-08-05）](https://xueqiu.com/8295448217/403850446)"

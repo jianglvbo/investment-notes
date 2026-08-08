@@ -5,13 +5,16 @@ createDate: 2026-07-03
 updateDate: 2026-07-03
 author: Joey不搬砖了
 star: false
-delete:  # 待删除标记：填 YYYY-MM-DD 即标记回收，7 天冷静期；缺省空=未标记
+delete:
 tags:
 - 市场/加密货币
 - 市场/美股
 source:
 - "[Circle(CRCL)](https://v.douyin.com/iQIkCJ1p3uw/)"
 ---
+
+# Circle(CRCL)
+
 ## 基本信息
 
 - 公司: Circle Internet Financial

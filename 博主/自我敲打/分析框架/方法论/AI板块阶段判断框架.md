@@ -5,7 +5,7 @@ createDate: 2026-08-04
 updateDate: 2026-08-04
 author: "自我敲打"
 star: false
-delete:  # 待删除标记：填 YYYY-MM-DD 即标记回收，7 天冷静期；缺省空=未标记
+delete:
 tags: [分析框架/行业分析, 行业/AI与算力/算力基础设施]
 source:
   - "[AI市场从全面负反馈进入叙事止跌（自我敲打 2026-08-04）](https://xueqiu.com/3911541976/403593666)"
