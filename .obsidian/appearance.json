@@ -1,12 +1,14 @@
 {
-  "accentColor": "",
+  "accentColor": "#5d83a2",
   "translucency": false,
   "baseFontSize": 18,
   "textFontFamily": "PingFang SC",
   "interfaceFontFamily": "PingFang SC",
-  "cssTheme": "GitHub Theme",
+  "cssTheme": "Blue Topaz",
   "theme": "moonstone",
   "enabledCssSnippets": [
     "typora-fonts"
-  ]
+  ],
+  "baseFontSizeAction": false,
+  "nativeMenus": false
 }

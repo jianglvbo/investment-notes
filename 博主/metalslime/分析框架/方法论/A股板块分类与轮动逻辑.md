@@ -1,4 +1,5 @@
 ---
+id: docid_vhohj512htv4bwl8q8sks1ra_e
 title: "A股板块分类与轮动逻辑"
 createDate: 2026-08-04
 updateDate: 2026-08-04

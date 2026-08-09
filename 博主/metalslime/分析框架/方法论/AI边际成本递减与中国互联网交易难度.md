@@ -1,4 +1,5 @@
 ---
+id: docid_sqnsuknxaln9dhl8orbumi9a_e
 title: AI边际成本递减与中国互联网交易难度
 createDate: 2026-07-22
 updateDate: 2026-07-22

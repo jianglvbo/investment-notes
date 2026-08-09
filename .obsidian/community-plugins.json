@@ -6,5 +6,6 @@
   "templater-obsidian",
   "make-md",
   "obsidian-local-rest-api",
-  "visit-history"
+  "visit-history",
+  "obsidian-style-settings"
 ]

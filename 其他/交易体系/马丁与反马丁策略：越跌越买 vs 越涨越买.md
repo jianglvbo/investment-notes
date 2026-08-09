@@ -5,7 +5,7 @@ createDate: 2026-08-07
 updateDate: 2026-08-07
 author: "小雷大智慧"
 star: false
-delete:
+delete: 2026-08-09
 tags: [交易体系/仓位管理, 交易体系/风险控制, 交易体系/止损止盈]
 source:
   - "[[工作区/原始资源/深度讲解马丁策略与反马丁策略]]"
