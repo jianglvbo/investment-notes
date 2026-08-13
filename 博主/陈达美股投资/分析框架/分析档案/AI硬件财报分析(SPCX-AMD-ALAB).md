@@ -1,4 +1,5 @@
 ---
+id: docid_2yotglbolpua4y5isy5ockbr_e
 title: "AI硬件财报分析：SpaceX·AMD·Astera Labs"
 标的: "SpaceX/AMD/Astera Labs"
 createDate: 2026-08-05

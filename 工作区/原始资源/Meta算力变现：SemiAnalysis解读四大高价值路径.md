@@ -1,4 +1,5 @@
 ---
+id: docid_p6do2lqdq74d05j3jqjvtnxv_e
 title: "$Meta(META)$ $半导体板块指数ETF-iShares(SOXX)$ $Roundhill记忆ETF(DRAM..."
 source: "[Meta算力变现：SemiAnalysis解读四大高价值路径](https://xueqiu.com/9598793634/398281745?scene=1036&share_uid=9320705714)"
 author: "陈达美股投资"

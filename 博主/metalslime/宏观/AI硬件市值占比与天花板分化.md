@@ -1,4 +1,5 @@
 ---
+id: docid_ouc1rvle7nx35tgiaalw8hde_e
 title: "AI硬件市值占比与天花板分化"
 createDate: 2026-08-05
 updateDate: 2026-08-05

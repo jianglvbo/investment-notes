@@ -1,4 +1,5 @@
 ---
+id: docid_e6a9pbq1phuclsgfny8bsx9d_e
 title: "高位 CPU 芯片：散户最容易亏损的三种情形"
 source: "[高位 CPU 芯片：散户最容易亏损的三种情形](https://v.douyin.com/DgClAk9pqzU/)"
 author: "FIRE青年"

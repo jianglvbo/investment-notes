@@ -1,4 +1,5 @@
 ---
+id: docid_zcl81qu5h4wl10zjubmcdacw_e
 title: "AI产业悖论与存储周期"
 createDate: 2026-08-01
 updateDate: 2026-08-01

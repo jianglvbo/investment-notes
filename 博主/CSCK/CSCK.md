@@ -1,4 +1,5 @@
 ---
+id: docid_eq7xkg6e6llvomwpbu21putm_e
 title: "CSCK"
 platform: "雪球"
 special_following: false

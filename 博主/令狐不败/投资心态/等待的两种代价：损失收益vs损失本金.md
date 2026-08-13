@@ -1,4 +1,5 @@
 ---
+id: docid_d6x29hpkwhrrj0f23d5cmg52_e
 title: 等待的两种代价：损失收益vs损失本金
 createDate: 2026-07-04
 updateDate: 2026-07-04

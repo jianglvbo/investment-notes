@@ -1,4 +1,5 @@
 ---
+id: docid_8kzschor0nykxqyu4rmyke27_e
 title: "AI产业链闭环框架：硬件-模型-应用"
 createDate: 2026-08-05
 updateDate: 2026-08-05

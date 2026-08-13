@@ -1,4 +1,5 @@
 ---
+id: docid_ccd996n1bqihh9kwv18d5vno_e
 title: "AI价值捕获链条集中定价偏差与价值流动方向"
 createDate: 2026-08-02
 updateDate: 2026-08-02

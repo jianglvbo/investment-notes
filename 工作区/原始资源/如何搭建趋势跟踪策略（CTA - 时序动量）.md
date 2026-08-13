@@ -1,4 +1,5 @@
 ---
+id: docid_f8zh791umpr0m4oio7o2nidu_e
 title: "如何搭建趋势跟踪策略（CTA - 时序动量）"
 source: "[如何搭建趋势跟踪策略（CTA - 时序动量）](https://v.douyin.com/uXIpN7wMdkM/)"
 author: "文主任"

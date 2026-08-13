@@ -1,4 +1,5 @@
 ---
+id: docid_e5emj55q3vyssazhca0qtvpn_e
 title: DCF的边界：烟花不可算永久亮度
 createDate: 2026-07-04
 updateDate: 2026-07-04

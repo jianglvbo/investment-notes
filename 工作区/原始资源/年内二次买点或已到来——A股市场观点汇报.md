@@ -1,4 +1,5 @@
 ---
+id: docid_u7mu0bb2t01a93rupaif1qt4_e
 title: "年内二次买点或已到来——A股市场观点汇报"
 source: "[年内二次买点或已到来——A股市场观点汇报](https://weixin.qq.com/sph/AI60gi402x)"
 author: "李求索"

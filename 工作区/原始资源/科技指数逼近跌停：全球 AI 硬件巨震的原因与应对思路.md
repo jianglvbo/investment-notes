@@ -1,4 +1,5 @@
 ---
+id: docid_tohfx2sddm9dvcxgq2dwulit_e
 title: "科技指数逼近跌停：全球 AI 硬件巨震的原因与应对思路"
 source: "[科技指数逼近跌停：全球 AI 硬件巨震的原因与应对思路](https://v.douyin.com/4gdbeoMGuaA/)"
 author: "米多多笔记"

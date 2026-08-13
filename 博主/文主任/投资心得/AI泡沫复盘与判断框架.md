@@ -1,4 +1,5 @@
 ---
+id: docid_votb8gm5h6nuvjksd9506ccc_e
 title: AI泡沫复盘与判断框架
 createDate: 2026-07-10
 updateDate: 2026-07-10

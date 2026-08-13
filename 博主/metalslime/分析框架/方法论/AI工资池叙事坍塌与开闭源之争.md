@@ -1,4 +1,5 @@
 ---
+id: docid_f4yoe7dxc2t5amqllpwpe9yq_e
 title: AI工资池叙事坍塌与开闭源之争
 createDate: 2026-08-01
 updateDate: 2026-08-01

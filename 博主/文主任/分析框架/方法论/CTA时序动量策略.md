@@ -1,4 +1,5 @@
 ---
+id: docid_hvvuqj0emwlt54ougc1072eb_e
 title: CTA时序动量策略
 createDate: 2026-07-07
 updateDate: 2026-07-07

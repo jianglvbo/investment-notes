@@ -1,4 +1,5 @@
 ---
+id: docid_gig7xcxam0l5bnt7ptthfn39_e
 title: 布林线(BOLL)三种交易战法
 createDate: 2026-07-03
 updateDate: 2026-07-03

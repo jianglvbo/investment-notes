@@ -1,4 +1,5 @@
 ---
+id: docid_4sxrjngdjhrt1p1ceyi53tp7_e
 title: "中国民航信息网络（TravelSky）：政策性垄断下的低估值平台"
 source: "AI整理 - 抖音"
 author: 憨包包不当韭菜

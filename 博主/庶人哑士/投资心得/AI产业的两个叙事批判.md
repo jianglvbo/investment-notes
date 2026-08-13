@@ -1,4 +1,5 @@
 ---
+id: docid_gh6j8tih16q5gqismi46x0ce_e
 title: "AI产业的两个叙事批判：CSP循环与替代真相"
 createDate: 2026-08-05
 updateDate: 2026-08-05

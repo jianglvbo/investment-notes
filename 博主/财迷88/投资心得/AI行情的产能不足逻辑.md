@@ -1,4 +1,5 @@
 ---
+id: docid_4zihi943blxsjt25kbn9hva2_e
 title: AI行情的产能不足逻辑
 createDate: 2026-08-01
 updateDate: 2026-08-01

@@ -1,4 +1,5 @@
 ---
+id: docid_okvxnfk5gbfs1u5g5yu0rrvw_e
 title: "美国如何解决美债问题：技术进步化债的历史镜鉴与 AI 时代的五个观察点"
 source: "[美国如何解决美债问题：技术进步化债的历史镜鉴与 AI 时代的五个观察点](http://xhslink.com/o/59eyeTpVxXw)"
 author: "文主任"

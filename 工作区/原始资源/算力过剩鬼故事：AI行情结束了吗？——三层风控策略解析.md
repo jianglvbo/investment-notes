@@ -1,4 +1,5 @@
 ---
+id: docid_k5owul8xq58uaekqup5z9ry0_e
 title: "算力过剩鬼故事：AI行情结束了吗？——三层风控策略解析"
 source: "[算力过剩鬼故事：AI行情结束了吗？——三层风控策略解析](https://v.douyin.com/oNGw4J3QKDA/)"
 author: "文主任"

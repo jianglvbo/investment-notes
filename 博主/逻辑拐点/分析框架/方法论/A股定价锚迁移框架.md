@@ -1,4 +1,5 @@
 ---
+id: docid_kkjxen4q0pywogzziead80cd_e
 title: A股定价锚迁移框架
 createDate: 2026-08-01
 updateDate: 2026-08-01

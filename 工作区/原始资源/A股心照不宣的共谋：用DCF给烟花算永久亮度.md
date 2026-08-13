@@ -1,4 +1,5 @@
 ---
+id: docid_hrkuzi324mp2d5anxgz3k5yw_e
 title: "A股心照不宣的共谋：用DCF给烟花算永久亮度"
 source: "[A股心照不宣的共谋：用DCF给烟花算永久亮度](https://mp.weixin.qq.com/s/uJH3eMUxLvrAcW7XsSfv7Q)"
 author: "庶人哑士"

@@ -1,4 +1,5 @@
 ---
+id: docid_7zn6ojvumw01zyy2e6ze5ldg_e
 title: "利用散户交易心理进行收割：Winners Glide, Losers Stumble 论文解读"
 source: "AI整理 - 小红书"
 author: "文主任"

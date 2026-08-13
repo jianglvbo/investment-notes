@@ -1,4 +1,5 @@
 ---
+id: docid_8c67o61l918nxhfpat3xwcyf_e
 title: "创新药ETF估值框架"
 createDate: 2026-08-05
 updateDate: 2026-08-05

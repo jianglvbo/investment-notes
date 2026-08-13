@@ -1,4 +1,5 @@
 ---
+id: docid_q4sx1mqxiy3yc5unpp561sif_e
 title: A股行情割裂下的交易反思：从'皈依者狂热'到仓位控制
 source: "[A股行情割裂下的交易反思：从'皈依者狂热'到仓位控制](https://v.douyin.com/FyHI788ut9A/)"
 author: FIRE青年

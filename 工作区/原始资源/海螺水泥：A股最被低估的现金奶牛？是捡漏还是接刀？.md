@@ -1,4 +1,5 @@
 ---
+id: docid_ktjijlx54y3xrh45qc8ly1b7_e
 title: "海螺水泥：A股最被低估的现金奶牛？是捡漏还是接刀？"
 source: "[海螺水泥：A股最被低估的现金奶牛？是捡漏还是接刀？](https://v.douyin.com/V-gZyKZEVtA/)"
 author: "存小白报告"

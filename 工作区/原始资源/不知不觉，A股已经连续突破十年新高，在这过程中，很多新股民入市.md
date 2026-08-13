@@ -1,4 +1,5 @@
 ---
+id: docid_1xckhqb8rcahvq1fyyywtaqb_e
 title: "不知不觉，A股已经连续突破十年新高，在这过程中，很多新股民入市"
 source: "[不知不觉，A股已经连续突破十年新高，在这过程中，很多新股民入市](http://xhslink.com/o/9ZVLupf6fpw)"
 author: "红书用户"

@@ -1,4 +1,5 @@
 ---
+id: docid_cj4v3jc8s4qswodxsq1vkc83_e
 title: A股走极端！如何保护好自己？
 source: "[A股走极端！如何保护好自己？](https://mp.weixin.qq.com/s/pDXR8kUISQgI2MwQBrR7Gg)"
 author: 睿知睿见

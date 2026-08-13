@@ -1,4 +1,5 @@
 ---
+id: docid_ixbptjtq72jck1cqe465rsuo_e
 title: 羊群效应与FOMO：股市里最大的危险是大家一起跑
 createDate: 2026-08-04
 updateDate: 2026-08-04

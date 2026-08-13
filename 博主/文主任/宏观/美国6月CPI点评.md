@@ -1,4 +1,5 @@
 ---
+id: docid_awcdcv52zonkx2p652swdw4d_e
 title: 美国6月CPI点评
 event: 美国2026年6月CPI数据
 时效状态: 已发布

@@ -1,4 +1,5 @@
 ---
+id: docid_lofa7cp8m25agp7xlp8vw6aw_e
 title: "AI医生与医疗AI投资逻辑"
 createDate: 2026-08-05
 updateDate: 2026-08-05

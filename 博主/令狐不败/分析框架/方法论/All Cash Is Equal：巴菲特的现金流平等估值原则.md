@@ -1,4 +1,5 @@
 ---
+id: docid_10w8c2370hbbfvy8vmcm4f14_e
 title: All Cash Is Equal：巴菲特的现金流平等估值原则
 createDate: 2026-07-03
 updateDate: 2026-07-03

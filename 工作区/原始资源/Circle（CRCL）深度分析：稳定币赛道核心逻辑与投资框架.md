@@ -1,4 +1,5 @@
 ---
+id: docid_ms0gsw5xn49474ovn52xkeid_e
 title: Circle（CRCL）深度分析：稳定币赛道核心逻辑与投资框架
 source: "[Circle（CRCL）深度分析：稳定币赛道核心逻辑与投资框架](https://v.douyin.com/iQIkCJ1p3uw/)"
 author: Joey 不搬砖了

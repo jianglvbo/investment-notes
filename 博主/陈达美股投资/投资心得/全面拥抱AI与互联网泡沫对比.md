@@ -1,4 +1,5 @@
 ---
+id: docid_ybbki1jje9j6oq2pwqbp3b8e_e
 title: "全面拥抱AI：与互联网泡沫的对比及利率风险"
 createDate: 2026-08-05
 updateDate: 2026-08-05

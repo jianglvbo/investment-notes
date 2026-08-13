@@ -1,4 +1,5 @@
 ---
+id: docid_qjjwtqy6gd17wm6znn8vpo43_e
 title: "美国6月CPI点评"
 source: "AI整理 - 小红书"
 author: "文主任"

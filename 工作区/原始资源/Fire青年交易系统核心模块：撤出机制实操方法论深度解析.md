@@ -1,4 +1,5 @@
 ---
+id: docid_altglf7cjnqir45860hrqc83_e
 title: "Fire青年交易系统核心模块：撤出机制实操方法论深度解析"
 source: "[Fire青年交易系统核心模块：撤出机制实操方法论深度解析](https://v.douyin.com/MCA70VtjylQ/)"
 author: "FIRE青年"

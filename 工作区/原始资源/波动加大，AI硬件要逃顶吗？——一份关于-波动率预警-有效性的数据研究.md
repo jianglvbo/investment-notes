@@ -1,4 +1,5 @@
 ---
+id: docid_g0fb032lt4uavwma96dy9q73_e
 title: "波动加大，AI硬件要逃顶吗？——一份关于-波动率预警-有效性的数据研究"
 source: "[波动加大，AI硬件要逃顶吗？——一份关于-波动率预警-有效性的数据研究](https://v.douyin.com/8Ua_6_gG_14/)"
 author: "文主任"

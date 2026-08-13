@@ -1,4 +1,5 @@
 ---
+id: docid_kkiceehw918mackmkrnxzeji_e
 title: AI硬件市值占比见顶与估值框架
 createDate: 2026-08-01
 updateDate: 2026-08-01

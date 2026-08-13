@@ -1,4 +1,5 @@
 ---
+id: docid_4398tgtxfw3o0kf44c90rfub_e
 title: "AI泡沫开始破了吗？——近期市场回调复盘"
 source: "[AI泡沫开始破了吗？——近期市场回调复盘](http://xhslink.com/o/7j2QhZswhiP)"
 author: "文主任"

@@ -1,4 +1,5 @@
 ---
+id: docid_0ooknkw3n0gq9hdhhjsxr57w_e
 title: 量化时代的交易进化与GTO思维
 createDate: 2026-07-22
 updateDate: 2026-07-22

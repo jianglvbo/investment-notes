@@ -1,4 +1,5 @@
 ---
+id: docid_tsek0ex3j7jxemnoneey7kfv_e
 title: "霍华德·马克思谈 AI 投资：为什么大多数 AI 公司可能一文不值"
 source: "[霍华德·马克思谈 AI 投资：为什么大多数 AI 公司可能一文不值](https://v.douyin.com/MLHqn3fa68g/)"
 author: "令狐不败"

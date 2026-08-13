@@ -1,4 +1,5 @@
 ---
+id: docid_wu926n4ssvv1n227h8vtf68b_e
 title: "james_nj"
 platform: "雪球"
 special_following: false

@@ -1,4 +1,5 @@
 ---
+id: docid_4ajfkssxd5xsc1fcxmf5uj8r_e
 title: AI行业投资评估框架
 createDate: 2026-07-03
 updateDate: 2026-07-03
