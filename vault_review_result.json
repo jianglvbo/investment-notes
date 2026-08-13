@@ -1,0 +1,71 @@
+{
+  "summary": {
+    "total": 382,
+    "by_template": {
+      "个股": 30,
+      "交易体系": 38,
+      "方法论": 88,
+      "分析档案": 2,
+      "投资心得": 89,
+      "投资心态": 55,
+      "行业": 23,
+      "博主画像": 46,
+      "宏观": 7,
+      "宏观通用": 4
+    }
+  },
+  "findings": {
+    "no_fm": [],
+    "fm_error": [],
+    "missing_fields": [],
+    "quoting": [],
+    "tag_issues": [],
+    "legacy_footnote_heading": [],
+    "forbidden_source_section": [],
+    "blogger_has_source": [],
+    "blogger_has_platform_id": [],
+    "missing_core_sections": [],
+    "wikilink_issues": [],
+    "unclassified": [],
+    "macro_template_mismatch": [],
+    "source_as_invalid": [],
+    "stray_date": [],
+    "field_order": [],
+    "junk_files": [],
+    "stock_code_missing": [],
+    "blogger_not_registered": [],
+    "blogger_table_no_link_col": [],
+    "blogger_empty_link_row": [],
+    "info_cutoff_mismatch": [],
+    "recycle_expired": [],
+    "recycle_pending": [
+      [
+        "其他/交易体系/马丁与反马丁策略：越跌越买 vs 越涨越买.md",
+        "2026-08-09",
+        5
+      ],
+      [
+        "其他/投资心态/像击球手一样等待最佳击球点.md",
+        "2026-08-09",
+        5
+      ],
+      [
+        "博主/晚舟夕照/交易体系/板块切换与超跌反弹策略.md",
+        "2026-08-09",
+        5
+      ],
+      [
+        "博主/老雷_/投资心得/2026上半年投资复盘.md",
+        "2026-08-09",
+        5
+      ],
+      [
+        "博主/边城浪子1986/投资心态/投资逆人性与知行合一.md",
+        "2026-08-09",
+        5
+      ]
+    ],
+    "recycle_invalid": [],
+    "footnote_links_workspace": []
+  }
+}

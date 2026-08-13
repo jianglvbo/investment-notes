@@ -1,6 +1,9 @@
 ---
 id: docid_ouc1rvle7nx35tgiaalw8hde_e
 title: "AI硬件市值占比与天花板分化"
+event: "AI硬件市值占比的短期空间与长期回落"
+时效状态: "进行中"
+时间范围: "2026年8月起"
 createDate: 2026-08-05
 updateDate: 2026-08-05
 author: "metalslime"

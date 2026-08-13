@@ -4,7 +4,7 @@ title: "i知否"
 platform: "雪球"
 special_following: true
 summary: "雪球港股宏观价值，碳基硅基双轮配置，代表作中广核矿业/全球核电"
-info_cutoff: 2026-08-07T17:50:00
+info_cutoff: 2026-08-10T22:26:14
 createDate: 2026-07-20
 updateDate: 2026-08-07
 ---

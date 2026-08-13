@@ -4,7 +4,7 @@ title: "CSCK"
 platform: "雪球"
 special_following: false
 summary: 雪球消费科技投资者，高频数据跟踪分仓投机，代表作东方甄选/泡泡玛特
-info_cutoff: 2026-08-07T17:50:00
+info_cutoff: 2026-08-10T22:26:14
 createDate: 2026-07-20
 updateDate: 2026-08-07
 ---

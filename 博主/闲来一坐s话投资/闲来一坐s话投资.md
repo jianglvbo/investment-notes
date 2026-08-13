@@ -4,7 +4,7 @@ title: "闲来一坐s话投资"
 platform: "雪球"
 special_following: false
 summary: 雪球博主（雪球ID 3491303582），2026-08-02 登记入控制台，尚未采集提炼（无框架条目、无言论追踪素材），擅长/盲区待采集后填充
-info_cutoff: 2026-08-04T17:50:00
+info_cutoff: 2026-08-10T22:26:14
 createDate: 2026-08-02
 updateDate: 2026-08-07
 ---
