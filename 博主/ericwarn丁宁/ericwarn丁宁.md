@@ -3,9 +3,9 @@ title: "ericwarn丁宁"
 platform: "雪球"
 special_following: false
 summary: 雪球「市赚率」估值体系发明人，巴菲特量化研究者，价值投资+高股息策略，代表作市赚率系列/银行保险红利股估值
-info_cutoff: 2026-08-11T17:50:00
+info_cutoff: 2026-08-19T00:24:00
 createDate: 2026-08-11
-updateDate: 2026-08-11
+updateDate: 2026-08-19
 ---
 
 # ericwarn丁宁

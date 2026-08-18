@@ -4,9 +4,9 @@ title: "metalslime"
 platform: "雪球"
 special_following: true
 summary: "雪球用户名darlingshan/别名药神，趋势驱动型，原创「财政老龄化跨预算虹吸」框架，深研AI产业链/半导体，对消费股结构性反思、美股硬件偏空"
-info_cutoff: 2026-08-15T02:00:00
+info_cutoff: 2026-08-19T00:24:00
 createDate: 2026-07-04
-updateDate: 2026-08-15
+updateDate: 2026-08-19
 ---
 
 # metalslime
